@@ -1,0 +1,17 @@
+﻿#,Component Name,No. of units,Comments
+1,Arduino Uno r3,1,
+2,D4184 Mosfet module,4,
+3,12V 240 LEDs/meter Red LED strip,1,"It is preferable to get the 5m strip. Make sure that the LED emits at around 640nm (doesn&apos;t have to be exact, a margin of 30nm on either side is okay)"
+4,PG7 cable gland,4,
+5,Barrell Jack 2.2x5.5 Female,5,The round type with threads on the outside
+6,Barrell Jack 2.2x5.5 male,4,
+7,12V 5A power supply,1,
+8,DPST rocker switch,1,
+9,Countersunk Philips Head M3 X 10 mm Bolt,4,
+10,Countersunk Philips Head M3 X 15 mm Bolt,4,
+11,M3 nut,4,
+12,M3 X 6 mm Brass Heat Set Threaded Round Insert,4,
+13,18AWG insulated wire,1,n red and black(10m each) to keep track of wiring
+14,Male to male jumper wires,7,
+15,1N5822 Schottky diode,1,"SR560, DR150,etc will also work. A 1N4007 will also work just fine."
+16,Heat shrink 3mm/4mm,,
